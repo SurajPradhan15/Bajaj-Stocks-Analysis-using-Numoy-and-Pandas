@@ -1,4 +1,4 @@
-# 📈 Stock Market Analysis
+# 📈 Stock Market Analysis Using Python
 
 This project focuses on analyzing historical stock data of **Bajaj Auto**, **Bajaj Finserv**, and **Bajaj Finance** using Python. The objective is to gain insights into price trends, trading volume, and return on investment (ROI) using real data and visualization.
 
@@ -47,11 +47,11 @@ This project focuses on analyzing historical stock data of **Bajaj Auto**, **Baj
 
 - **ROI and Profit/Loss**  
   Bar charts displaying ROI % and net returns for each stock.  
-  ![ROI Bar Chart](./Roi_Bar_Chart.jpg)
+  ![ROI Bar Chart](ROI%20Bar%20Chart.jpg)
 
 - **Portfolio Allocation**  
   Pie chart showing share distribution based on simulation.  
-  ![Portfolio Allocation Pie Chart](./[Portfolio_Pie_Chart.jpg)](https://github.com/SurajPradhan15/Bajaj-Stocks-Analysis-using-Numpy-and-Pandas/blob/main/ROI%20Bar%20Chart.jpg)
+  ![Portfolio Allocation Pie Chart](Portfolio%20Allocation%20Pie%20Chart.jpg)
 
 ---
 
