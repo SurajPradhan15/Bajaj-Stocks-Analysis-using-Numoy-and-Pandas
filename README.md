@@ -47,11 +47,11 @@ This project focuses on analyzing historical stock data of **Bajaj Auto**, **Baj
 
 - **ROI and Profit/Loss**  
   Bar charts displaying ROI % and net returns for each stock.  
-  ![ROI Bar Chart](./roi_bar_chart.png)
+  ![ROI Bar Chart](./Roi_Bar_Chart.jpg)
 
 - **Portfolio Allocation**  
   Pie chart showing share distribution based on simulation.  
-  ![Portfolio Allocation Pie Chart](./portfolio_pie_chart.png)
+  ![Portfolio Allocation Pie Chart](./Portfolio_Pie_Chart.jpg)
 
 ---
 
