@@ -51,7 +51,7 @@ This project focuses on analyzing historical stock data of **Bajaj Auto**, **Baj
 
 - **Portfolio Allocation**  
   Pie chart showing share distribution based on simulation.  
-  ![Portfolio Allocation Pie Chart](./Portfolio_Pie_Chart.jpg)
+  ![Portfolio Allocation Pie Chart](./[Portfolio_Pie_Chart.jpg)](https://github.com/SurajPradhan15/Bajaj-Stocks-Analysis-using-Numpy-and-Pandas/blob/main/ROI%20Bar%20Chart.jpg)
 
 ---
 
